@@ -10,5 +10,5 @@ variable "my_type" {
 
 variable "my_tag" {
   type = string
-  default = "SeunTerra"
+  default = "SeanTerra"
 }
